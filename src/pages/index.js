@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Clearme</title>
+      <title>CODA</title>
     </Head>
       <div>
         <h4></h4>
