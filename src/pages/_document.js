@@ -7,8 +7,9 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-           <script defer type="text/javascript" src="https://Agents.community.druidplatform.com/v2/druid_webchat_v2_load.js?botId=0b00dbd9-73f8-40c9-3ff4-08dda434cab0&amp;baseUrl=https%3A%2F%2Fdruidapi.comm.eu.druidplatform.com">
+          <script defer type="text/javascript" src="https://cba1-bfsi.community.druidplatform.com/v2/druid_webchat_v2_load.js?botId=e1724520-7316-4b47-3ffa-08dda434cab0&amp;baseUrl=https%3A%2F%2Fdruidapi.comm.eu.druidplatform.com">
         </script>
+
 
       </body>
     </Html>

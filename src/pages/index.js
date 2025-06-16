@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>CODA</title>
+      <title>Ally Bank</title>
     </Head>
       <div>
         <h4></h4>
