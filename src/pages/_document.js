@@ -7,7 +7,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-          <script defer type="text/javascript" src="https://cba1-bfsi.community.druidplatform.com/v2/druid_webchat_v2_load.js?botId=e1724520-7316-4b47-3ffa-08dda434cab0&amp;baseUrl=https%3A%2F%2Fdruidapi.comm.eu.druidplatform.com">
+           <script defer type="text/javascript" src="https://Genpact-POC-env.community.druidplatform.com/v2/druid_webchat_v2_load.js?botId=e4deb929-e3cb-4697-656b-08dd4c1fcb7f&amp;baseUrl=https%3A%2F%2Fdruidapi.comm.eu.druidplatform.com">
         </script>
 
 
